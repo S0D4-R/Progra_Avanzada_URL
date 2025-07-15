@@ -271,7 +271,7 @@ while wiz:
 # Cree un menú que muestre diferentes opciones según el rol del usuario (administrador o estudiante).
 
 
-#23. Menú de lista: Cree un menú para gestionar una lista: agregar elementos, buscar, eliminar y mostrar todo.
+#23. Menú de lista: Cree un menú para gestionar una lista: agregar elementos, buscar, eliminar y mostrartodo.
 
 #24. Sistema de notas: Desarrolle un menú que permita registrar estudiantes,
 # ingresar sus notas y consultar promedios.
